@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r-scotti
 - 👀 I’m interested in forest inventory and management
 - 🌱 I’m currently learning how to enable a digital aware behawiour of students never exposed to programming
-- 💞️ I’m looking to collaborate on forest inventory and management could based support systems
+- 💞️ I’m open to collaborations in the forest inventory and management support systems domain
 - 📫 How to reach me scotti@uniss.it
 
 <!---
